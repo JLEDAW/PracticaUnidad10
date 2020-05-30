@@ -101,9 +101,9 @@
             this.labelTelefono.AutoSize = true;
             this.labelTelefono.Location = new System.Drawing.Point(547, 30);
             this.labelTelefono.Name = "labelTelefono";
-            this.labelTelefono.Size = new System.Drawing.Size(49, 13);
+            this.labelTelefono.Size = new System.Drawing.Size(32, 13);
             this.labelTelefono.TabIndex = 7;
-            this.labelTelefono.Text = "Teléfono";
+            this.labelTelefono.Text = "Móvil";
             // 
             // LabelSocios
             // 
